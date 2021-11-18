@@ -3,4 +3,12 @@ project:
   output-dir: docs
   type: "site"
 
+site:
 
+  sidebar:
+    style: "docked"
+    background: light
+    search: true
+    collapese-level: 2
+    contents: 
+      - new_site.qmd

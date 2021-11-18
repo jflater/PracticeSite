@@ -1,0 +1,28 @@
+---
+title: "Second"
+editor_options: 
+  chunk_output_type: console
+---
+
+# This is the title of the second page
+
+Some text
+
+```{r}
+#| warning: false
+library(tidyverse)
+```
+
+How does the number of cylinders impact mpg? 
+
+```{r}
+#| fig-cap: "A plot of mtcars"
+#| fig-alt: "A scatter plot of mpg vs. cyl"
+#| code-fold: true
+#| code-summary: "plot mpg vs. cyl"
+
+mtcars %>%
+  ggplot(aes(mpg, cyl)) +
+    geom_point(aes(color = as.factor(cyl)))
+```
+

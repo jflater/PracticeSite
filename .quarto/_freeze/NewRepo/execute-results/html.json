@@ -1,7 +1,7 @@
 {
-  "hash": "8de6fbef67804e1a1593c293f7f68eca",
+  "hash": "ba25c0f4f7e42fbecfaf8c18b31c879e",
   "result": {
-    "markdown": "---\ntitle: \"Fist Site\"\n---\n\nThis is a Quarto document. To learn more about Quarto visit <https://quarto.org>.\n\n# Check it out\n::: {.cell}\n\n```{.r .cell-code}\nplot(1:10)\n```\n\n::: {.cell-output-display}\n![](NewRepo_files/figure-html/unnamed-chunk-2-1.png){width=672}\n:::\n:::\n",
+    "markdown": "---\ntitle: \"First Site\"\n---\n\nThis is a Quarto document. To learn more about Quarto visit <https://quarto.org>.\n\n# Check it out\n\n::: {.cell}\n\n```{.r .cell-code}\nplot(1:10)\n```\n\n::: {.cell-output-display}\n![](NewRepo_files/figure-html/unnamed-chunk-2-1.png){width=672}\n:::\n:::\n",
     "supporting": [
       "NewRepo_files"
     ],

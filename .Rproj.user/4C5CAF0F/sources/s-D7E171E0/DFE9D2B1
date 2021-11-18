@@ -1,0 +1,29 @@
+{
+    "id": "DFE9D2B1",
+    "path": "~/GitRepos/NewRepo/Second.qmd",
+    "project_path": "Second.qmd",
+    "type": "quarto_markdown",
+    "hash": "1674422186",
+    "contents": "",
+    "dirty": false,
+    "created": 1637251208642.0,
+    "source_on_save": true,
+    "relative_order": 3,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "15,45",
+        "scrollLine": "0",
+        "marks": "<:5,-1\n>:5,0",
+        "chunk_output_type": "console"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1637251938,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1637251938679,
+    "read_only": false,
+    "read_only_alternatives": []
+}

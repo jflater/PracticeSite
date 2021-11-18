@@ -2,8 +2,15 @@
   {
     "objectID": "NewRepo.html",
     "href": "NewRepo.html",
-    "title": "Fist Site",
+    "title": "First Site",
     "section": "",
     "text": "This is a Quarto document. To learn more about Quarto visit https://quarto.org.\n\nCheck it out\n\nplot(1:10)"
+  },
+  {
+    "objectID": "Second.html",
+    "href": "Second.html",
+    "title": "Second",
+    "section": "",
+    "text": "This is the title of the second page\nSome text\n\nlibrary(tidyverse)\n\nHow does the number of cylinders impact mpg?\n\n\nplot mpg vs. cyl\nmtcars %>%\n  ggplot(aes(mpg, cyl)) +\n    geom_point(aes(color = as.factor(cyl)))\n\n\n\n\n\nA plot of mtcars"
   }
 ]

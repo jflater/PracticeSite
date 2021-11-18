@@ -3,7 +3,7 @@
     "path": "~/GitRepos/NewRepo/NewRepo.qmd",
     "project_path": "NewRepo.qmd",
     "type": "quarto_markdown",
-    "hash": "3674824821",
+    "hash": "2784866409",
     "contents": "",
     "dirty": false,
     "created": 1637249747091.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "1,16",
+        "cursorPosition": "1,11",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1637249849,
+    "lastKnownWriteTime": 1637251941,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1637249849487,
+    "last_content_update": 1637251941729,
     "read_only": false,
     "read_only_alternatives": []
 }
