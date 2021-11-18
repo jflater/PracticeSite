@@ -1,0 +1,6 @@
+project:
+  title: "NewRepo"
+  output-dir: docs
+  type: "site"
+
+

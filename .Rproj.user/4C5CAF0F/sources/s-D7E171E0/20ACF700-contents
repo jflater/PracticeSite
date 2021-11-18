@@ -1,0 +1,11 @@
+---
+title: "Fist Site"
+---
+
+This is a Quarto document. To learn more about Quarto visit <https://quarto.org>.
+
+# Check it out
+```{r}
+plot(1:10)
+```
+

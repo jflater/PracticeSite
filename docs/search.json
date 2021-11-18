@@ -1,0 +1,9 @@
+[
+  {
+    "objectID": "NewRepo.html",
+    "href": "NewRepo.html",
+    "title": "Fist Site",
+    "section": "",
+    "text": "This is a Quarto document. To learn more about Quarto visit https://quarto.org.\n\nCheck it out\n\nplot(1:10)"
+  }
+]
